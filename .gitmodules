@@ -1,3 +1,6 @@
 [submodule "PythonRobotics"]
 	path = PythonRobotics
 	url = https://github.com/AtsushiSakai/PythonRobotics
+[submodule "lidar_bev"]
+	path = lidar_bev
+	url = https://github.com/beltransen/lidar_bev
